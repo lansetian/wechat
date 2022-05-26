@@ -7,7 +7,7 @@
  */
 function classLoader($class)
 {
-    $class = str_replace('luweiss\\wechat\\', '', $class);
+    $class = str_replace('lansetian\\wechat\\', '', $class);
     $path = str_replace('\\', DIRECTORY_SEPARATOR, $class);
     $file = __DIR__ . '/src/' . $path . '.php';
     if (file_exists($file)) {

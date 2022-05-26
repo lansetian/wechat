@@ -6,7 +6,7 @@
  * Time: 20:12
  */
 
-namespace luweiss\wechat;
+namespace lansetian\wechat;
 
 
 class TplMsg extends Base

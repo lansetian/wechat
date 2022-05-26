@@ -6,7 +6,7 @@
  * Time: 10:18
  */
 
-namespace luweiss\wechat;
+namespace lansetian\wechat;
 
 
 class Pay extends Base

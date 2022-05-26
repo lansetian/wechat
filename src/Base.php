@@ -6,7 +6,7 @@
  * Time: 11:32
  */
 
-namespace luweiss\wechat;
+namespace lansetian\wechat;
 
 
 abstract class Base

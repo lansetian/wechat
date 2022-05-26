@@ -6,7 +6,7 @@
  * Time: 19:41
  */
 
-namespace luweiss\wechat;
+namespace lansetian\wechat;
 
 
 class DataTransform
